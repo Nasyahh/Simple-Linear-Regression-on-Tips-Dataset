@@ -1,1 +1,3 @@
 # Simple-Linear-Regression-on-Tips-Dataset
+
+Simple Linear Regression is one of the earliest model introduced in Machine Learning class that I attend in Purwadhika Digital School. This model is classified as supervised learning. The purpose of this model is to predict and analyze relationship between features and target. I use [tips dataset](https://www.kaggle.com/code/murats/visualization-with-seaborn-on-tips-dataset-part1) to predict tips as dependent variable and total_bill as independent variable. Hypothesis testing such as F test and T test also conducted as to show the relationship between tips and total_bill. 
